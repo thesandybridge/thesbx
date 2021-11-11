@@ -1,5 +1,8 @@
-### Hi there 👋
+# sbx_
 
+- WordPress Developer
+- JavaScript for life
+  
 <!--
 **thesbx/thesbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
