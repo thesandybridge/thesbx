@@ -1,8 +1,9 @@
 # sbx_
 
-- Web Developer
+Full Stack Developer
+DevOps Engineer
 
-I specialize in WordPress development.
+I specialize in WordPress development by trade.
   
 <!--
 **thesbx/thesbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
