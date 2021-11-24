@@ -1,7 +1,8 @@
 # sbx_
 
-Full Stack Developer
-DevOps Engineer
+### Full Stack Developer
+
+### DevOps Engineer
 
 I specialize in WordPress development by trade.
   
