@@ -1,5 +1,7 @@
 # sbx_
 
+![](https://komarev.com/ghpvc/?username=thesbx&color=blue&)
+
 ### Full Stack Developer
 
 ### DevOps Engineer
