@@ -4,5 +4,6 @@
 
 ### Full Stack Developer
 
-![](https://github.com/thesbx/github-stats/blob/master/generated/overview.svg)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesbx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github.com/thesbx/github-stats/blob/master/generated/languages.svg)
