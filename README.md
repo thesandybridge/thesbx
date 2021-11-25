@@ -5,5 +5,4 @@
 ### Full Stack Developer
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesbx&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github.com/thesbx/github-stats/blob/master/generated/languages.svg)
