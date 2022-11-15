@@ -32,10 +32,6 @@
 <img align="left" alt="php" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 ### 📊 Stats
