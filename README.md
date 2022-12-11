@@ -1,13 +1,13 @@
-# 🇺🇸 Matt Miller | ![](https://komarev.com/ghpvc/?username=thesbx&color=blue&)
+# 🇺🇸 Matt Miller | ![](https://komarev.com/ghpvc/?username=thesandybridge&color=blue&)
 
 **`I'm a full stack developer with a passion for learning new technologies.`**
 
 <p align="left">
-    <a href="https://github.com/thesbx?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/thesbx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <a href="https://github.com/thesandybridge?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/thesandybridge?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <a href="https://github.com/thesbx?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/thesbx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <a href="https://github.com/thesandybridge?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/thesandybridge?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
 
@@ -37,6 +37,6 @@
 ---
 ### 📊 Stats
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesbx&show_icons=true&theme=dark&count_private=true)](https://github.com/thesbx)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesandybridge&show_icons=true&theme=dark&count_private=true)](https://github.com/thesandybridge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesbx&layout=compact&theme=dark&count_private=true)](https://github.com/thesbx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesandybridge&layout=compact&theme=dark&count_private=true)](https://github.com/thesandybridge)
