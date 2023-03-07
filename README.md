@@ -37,3 +37,4 @@
 ---
 ### 📊 Stats
 ![thesandybridge github-trophies](https://github-profile-trophy.vercel.app/?username=thesandybridge&theme=tokyonight)
+![thesandybridge stats-overview](https://raw.githubusercontent.com/thesandybridge/github-stats/master/generated/languages.svg#gh-dark-mode-only)
