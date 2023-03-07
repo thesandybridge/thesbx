@@ -37,6 +37,7 @@
 ---
 ### 📊 Stats
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesandybridge&show_icons=true&theme=dark&count_private=true)](https://github.com/thesandybridge)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesandybridge&layout=compact&theme=dark&count_private=true)](https://github.com/thesandybridge)
+[//]: # ([![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesandybridge&show_icons=true&theme=dark&count_private=true)](https://github.com/thesandybridge))  
+![thesandybridge GitHub Stats](https://dooboo.io/api/github-stats-advanced?login=thesandybridge)
+![thesandybridge GitHub Trophies](https://dooboo.io/api/github-trophies?login=thesandybridge)
+[//]: # ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesandybridge&layout=compact&theme=dark&count_private=true)](https://github.com/thesandybridge))
