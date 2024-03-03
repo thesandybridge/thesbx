@@ -37,6 +37,15 @@
 ---
 ### 📊 Stats
 <!--START_SECTION:waka-->
+
+```txt
+i3config        1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+PHP             1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+Rust            1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+JavaScript      1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Lua             1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+```
+
 <!--END_SECTION:waka-->
 ![thesandybridge stats-overview](https://raw.githubusercontent.com/thesandybridge/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![thesandybridge github-trophies](https://github-profile-trophy.vercel.app/?username=thesandybridge&theme=tokyonight&no-bg=true&no-frame=true)
