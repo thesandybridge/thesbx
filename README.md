@@ -49,5 +49,5 @@ Lua             2 hrs 32 mins   █▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-![thesandybridge stats-overview](https://raw.githubusercontent.com/thesandybridge/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![thesandybridge github-trophies](https://github-profile-trophy.vercel.app/?username=thesandybridge&theme=tokyonight&no-bg=true&no-frame=true)
+<!--![thesandybridge stats-overview](https://raw.githubusercontent.com/thesandybridge/github-stats/master/generated/languages.svg#gh-dark-mode-only)-->
+<!--![thesandybridge github-trophies](https://github-profile-trophy.vercel.app/?username=thesandybridge&theme=tokyonight&no-bg=true&no-frame=true)-->
