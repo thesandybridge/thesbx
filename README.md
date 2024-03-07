@@ -39,13 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 36 hrs 54 mins
+Total Time: 40 hrs 37 mins
 
-Python          8 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.63 %
-PHP             3 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Rust            3 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Bash            2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Other           2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Python          8 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
+PHP             5 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Rust            3 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Bash            2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Lua             2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
 ```
 
 <!--END_SECTION:waka-->
