@@ -1,6 +1,7 @@
 # 🇺🇸 Matt Miller | ![](https://komarev.com/ghpvc/?username=thesandybridge&color=blue&)
 
 I'm a software engineer specializing in front-end development. I primarily work on creating and improving the user interfaces for websites, ensuring they're both visually appealing and highly functional. I have a proven track record of delivering high-quality projects on time and on budget with strong problem-solving skills and an ability to work effectively in a team environment.
+
 ---
 
 ### 🧰 Languages and Tools
