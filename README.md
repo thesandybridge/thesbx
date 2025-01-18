@@ -30,13 +30,13 @@ I'm a software engineer specializing in front-end development. I primarily work 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 680 hrs 36 mins
+Total Time: 685 hrs 52 mins
 
-TypeScript      255 hrs 32 mins █████████░░░░░░░░░░░░░░░░   36.60 %
-JavaScript      123 hrs 53 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-Markdown        52 hrs 17 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-PHP             45 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Rust            44 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+TypeScript      260 hrs 18 mins █████████▒░░░░░░░░░░░░░░░   37.00 %
+JavaScript      124 hrs 2 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+Markdown        52 hrs 17 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+PHP             45 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Rust            44 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
